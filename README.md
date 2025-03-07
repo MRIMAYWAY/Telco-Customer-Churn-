@@ -48,30 +48,6 @@ Metrics: Confusion Matrix, Classification Report
 
 Visualization: Seaborn heatmaps for model evaluation
 
-📷 Output Example
 
 
 
-🤝 Contribution
-
-Want to contribute? Follow these steps:
-
-Fork the repository 🍔
-
-Clone it locally 🖥️
-
-git clone https://github.com/your-username/customer-churn-prediction.git
-
-Create a new branch 🛠️
-
-git checkout -b feature-branch
-
-Commit your changes 📝
-
-git commit -m "Added a new feature"
-
-Push to GitHub & Create a Pull Request 🚀
-
-🐜 License
-
-This project is MIT Licensed – free to use and modify.
